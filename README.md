@@ -29,35 +29,6 @@ Motivated and adaptable Full-Stack Developer with hands-on experience in designi
 
 ---
 
-## 💼 Experience
-
-### IT Support Desk Analyst, University of Greenwich (Nov 2023–Present)
-- Provide hardware/software support and proactive maintenance in teaching spaces.
-- Conduct regular system inspections and collaborate with IT teams to resolve issues.
-
-### Full-Stack Developer, Skill Maps (Jun 2022–Present)
-- Designed and implemented front-end using HTML, CSS, JavaScript.
-- Developed server-side logic and managed domain operations for uptime and performance.
-- Automated CI/CD workflows and monitored system reliability.
-
-### Web Designer, Global Job (Jan 2017–Jun 2022)
-- Created brand books, edited multimedia content, and adapted advertising across media.
-
-### Web Developer, JOMA RM (Mar 2015–Jan 2017)
-- Administered OpenCart platform, executed SEO strategies, and managed email marketing.
-
----
-
-## 🏆 Certifications
-
-- AWS Essential Training for Developers  
-- Azure DevOps for Beginners  
-- Using Git with Visual Studio Code  
-- Level 3 Diploma for ICT Systems and Principles  
-- Python (Basic) Certificate
-
----
-
 ## 📈 GitHub Stats & Activity
 
 | **📊 Activity Graph** | **🔥 Streak Stats** | **🏆 Trophies** |
