@@ -31,9 +31,7 @@ Motivated and adaptable Full-Stack Developer with hands-on experience in designi
 
 ## 📈 GitHub Stats & Activity
 
-| **📊 Activity Graph** | **🔥 Streak Stats** | **🏆 Trophies** |
-| --------------------- | ------------------ | --------------- |
-| ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CSwebD&theme=react-dark&hide_border=true) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=CSwebD&theme=dark&hide_border=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=CSwebD&theme=dark&row=1&column=3&margin-w=10) |
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=CSwebD&theme=dark&hide_border=true)
 
 **Detailed Stats:**  
 ![Cristian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CSwebD&show_icons=true&theme=dark&include_all_commits=true&count_private=true)  
