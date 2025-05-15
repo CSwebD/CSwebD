@@ -72,12 +72,15 @@ Motivated and adaptable Full-Stack Developer with hands-on experience in designi
 
 ## 🗂️ Projects by Language
 
+Here's a breakdown of your projects by programming language based on pinned repositories and notable work:
+
+- **HTML:** 2 projects (CRIS-AI Portfolio, Skill Maps)
+- **CSS:** 2 projects (CRIS-AI Portfolio, Skill Maps)
 - **JavaScript:** 2 projects (CRIS-AI Portfolio, Skill Maps)
-- **HTML/CSS:** 2 projects (CRIS-AI Portfolio, Skill Maps)
 - **Python:** 1 project (RNN-AAL-Prediction)
-- **Java:** 0 projects (add your Java projects)
-- **R:** 0 projects (add your R projects)
-- **Bash:** 0 projects (add your Bash scripts)
+- **Java:** 0 projects (consider adding any Java-based work here)
+- **R:** 0 projects (consider showcasing any R scripts or analyses)
+- **Bash:** 0 projects (consider adding automation or shell scripts)
 
 --------------------- | ------------------ | -------------- |
 | ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CSwebD&theme=react-dark&hide_border=true) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=CSwebD&theme=dark&hide_border=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=CSwebD&theme=dark&row=1&column=3&margin-w=10) |
