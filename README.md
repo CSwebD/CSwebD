@@ -51,10 +51,6 @@ Here's a breakdown of your projects by programming language based on pinned repo
 - **R:** 0 projects (consider showcasing any R scripts or analyses)
 - **Bash:** 0 projects (consider adding automation or shell scripts)
 
-**Detailed Stats:**  
-![Cristian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CSwebD&show_icons=true&theme=dark&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CSwebD&layout=compact&theme=dark)
-
 ---
 
 ## 📌 Pinned Projects
