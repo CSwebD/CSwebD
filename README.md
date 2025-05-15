@@ -41,7 +41,7 @@ Motivated and adaptable Full-Stack Developer with hands-on experience in designi
 
 ## 🗂️ Projects by Language
 
-Here's a breakdown of your projects by programming language based on pinned repositories and notable work:
+Here's a breakdown of my projects by programming language based on pinned repositories and notable work:
 
 - **HTML:** 2 projects (CRIS-AI Portfolio, Skill Maps)
 - **CSS:** 2 projects (CRIS-AI Portfolio, Skill Maps)
