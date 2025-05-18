@@ -15,7 +15,16 @@ Motivated and adaptable Full-Stack Developer with hands-on experience in designi
 
 ## 🛠️ Skills & Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![R](https://img.shields.io/badge/-R-276DC3?logo=r) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify)
+![TeamCity](https://img.shields.io/badge/-TeamCity-000000?logo=teamcity)
+
 
 - **Frameworks & Tools:** TensorFlow, Beautiful Soup, Azure DevOps, AWS, Git, Visual Studio Code, Particles.js
 
