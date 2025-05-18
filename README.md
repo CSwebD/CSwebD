@@ -47,7 +47,7 @@ Here's a breakdown of my projects by programming language based on pinned reposi
 - **CSS:** 2 projects (CRIS-AI Portfolio, Skill Maps)
 - **JavaScript:** 2 projects (CRIS-AI Portfolio, Skill Maps)
 - **Python:** 1 project (RNN-AAL-Prediction)
-- **Java:** 1 projects ([Banking Application](https://github.com/CSwebD/Banking_Application_in_java))
+- **Java:** 1 projects ([Banking Application](https://github.com/CSwebD/Banking_Application_in_java), )
 - **R:** 0 projects (consider showcasing any R scripts or analyses)
 - **Bash:** 0 projects (consider adding automation or shell scripts)
 
