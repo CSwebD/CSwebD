@@ -43,8 +43,7 @@ Motivated and adaptable Full-Stack Developer with hands-on experience in designi
 
 Here's a breakdown of my projects by programming language based on pinned repositories and notable work:
 
-- **HTML:** 2 projects (CRIS-AI Portfolio, Skill Maps)
-- **CSS:** 2 projects (CRIS-AI Portfolio, Skill Maps)
+- **HTML, CCS:** 2 projects (CRIS-AI Portfolio, Skill Maps)
 - **JavaScript:** 2 projects (CRIS-AI Portfolio, Skill Maps)
 - **Python:** 1 project (RNN-AAL-Prediction)
 - **Java:** 3 projects ([Banking_Application](https://github.com/CSwebD/Banking_Application_in_java), [To_Do_List](https://github.com/CSwebD/To_Do_List_in_Java), [Student_Management_System](https://github.com/CSwebD/Student_Management_System_in_java))
