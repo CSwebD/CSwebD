@@ -46,7 +46,7 @@ Here's a breakdown of my projects by programming language based on pinned reposi
 - **HTML, CCS:** 2 projects (CRIS-AI Portfolio, Skill Maps)
 - **JavaScript:** 2 projects (CRIS-AI Portfolio, Skill Maps)
 - **Python:** 1 project (RNN-AAL-Prediction)
-- **Java:** 3 projects ([Banking-Application](https://github.com/CSwebD/Banking-Application), [ToDoList](https://github.com/CSwebD/ToDoList), [Student_Management_System](https://github.com/CSwebD/Student_Management_System))
+- **Java:** 3 projects ([Banking-Application](https://github.com/CSwebD/BankingApplicationGUI), [ToDoList](https://github.com/CSwebD/ToDoList), [Student_Management_System](https://github.com/CSwebD/Student_Management_System))
 - **R:** 0 projects (consider showcasing any R scripts or analyses)
 - **Bash:** 0 projects (consider adding automation or shell scripts)
 
