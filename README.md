@@ -43,8 +43,7 @@ Motivated and adaptable Full-Stack Developer with hands-on experience in designi
 
 Here's a breakdown of my projects by programming language based on pinned repositories and notable work:
 
-- **HTML, CCS:** 2 projects (CRIS-AI Portfolio, Skill Maps)
-- **JavaScript:** 2 projects (CRIS-AI Portfolio, Skill Maps)
+- **HTML, CCS, JavaScript:** 2 projects ([CRIS-AI Portfolio](https://cris-ai.com/), [Skill Maps](https://skill-maps.com/), [CS Portfolio](https://cs-portfolio1.netlify.app/), [Bon Appetit](https://b0n-appetit.netlify.app/), [Cristi's Cusine](https://cristi-s-cuisine.netlify.app/), [Three Dots](https://3-dots.netlify.app/))
 - **Python:** 2 projects ([RNN-AAL-Prediction](https://github.com/CSwebD/machine-learning-techniques-for-predicting-American-Airlines-Stock-using-RNN-model), [web-scraping-an-article](https://github.com/CSwebD/web-scraping-an-article))
 - **Java:** 3 projects ([BankingApplicationGUI](https://github.com/CSwebD/BankingApplicationGUI), [ToDoList](https://github.com/CSwebD/ToDoList), [Student_Management_System](https://github.com/CSwebD/Student_Management_System))
 - **R:** 1 project ([Weight-Change-Analysis](https://github.com/CSwebD/Weight-Change-Analysis))
