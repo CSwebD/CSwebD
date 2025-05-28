@@ -32,8 +32,8 @@ Motivated and adaptable Full-Stack Developer with hands-on experience in designi
 
 ## 🎓 Education
 
-- **BEng (Hons) Software Engineering**, University of Greenwich (2022–2025)
-- **Bachelor of Accounting and Finance**, ASE Moldova (2011–2014)
+- **BEng (Hons) Software Engineering**, University of Greenwich (2025)
+- **Level 3 Diploma for ICT Systems and Principles for IT Professionals**, 5E Ltd (2022)
 
 ---
 
