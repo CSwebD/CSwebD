@@ -73,9 +73,10 @@ Here's a breakdown of my projects by programming language based on pinned reposi
 
 ## 🧠 LeetCode Progress (Live Stats)
 
-## 📊 LeetCode Heatmap (Static)
+## 🧩 Custom LeetCode Stats
 
-![LeetCode Heatmap](assets/leetcode-heatmap.svg)
+<img src="assets/leetcode-summary.svg" width="500" />
+
 
 
 
