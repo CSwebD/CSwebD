@@ -73,7 +73,10 @@ Here's a breakdown of my projects by programming language based on pinned reposi
 
 ## 🧠 LeetCode Progress (Live Stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/cris_tian_7?ext=heatmap&theme=unicorn&font=calibri&animation=true&border=false&hide=ranking)
+## 📊 LeetCode Heatmap (Static)
+
+![LeetCode Heatmap](assets/leetcode-heatmap.svg)
+
 
 
 
