@@ -71,9 +71,12 @@ Here's a breakdown of my projects by programming language based on pinned reposi
 
 ---
 
-## 📅 LeetCode GitHub-Style Goal Tracker
+### 🧠 LeetCode Heatmap
+![Heatmap](https://raw.githubusercontent.com/CSwebD/leetcode-tracker/main/assets/leetcode-heatmap.svg)
 
-![LeetCode Contribution Heatmap](https://raw.githubusercontent.com/CSwebD/leetcode-tracker/main/assets/leetcode-contributions.svg)
+### 📊 Submissions
+![Submissions](https://raw.githubusercontent.com/CSwebD/leetcode-tracker/main/assets/leetcode-submissions.svg)
+
 
 
 
