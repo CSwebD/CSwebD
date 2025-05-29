@@ -71,12 +71,15 @@ Here's a breakdown of my projects by programming language based on pinned reposi
 
 ---
 
-## 🧠 LeetCode Practice
+---
 
-Here's a snapshot of my daily LeetCode practice:
+## 📅 LeetCode Heatmap
 
-![LeetCode Stats](https://raw.githubusercontent.com/CSwebD/leetcode-tracker/main/assets/leetcode-progress.svg)
+![LeetCode Heatmap](https://raw.githubusercontent.com/CSwebD/leetcode-tracker/main/assets/leetcode-heatmap.svg)
 
-💡 Updated automatically every 24 hours via [GitHub Actions](https://github.com/CSwebD/leetcode-tracker/blob/main/.github/workflows/update.yml)
+---
 
-🔗 [View my LeetCode profile](https://leetcode.com/u/cris_tian_7/)
+## 📊 Submission Statistics
+
+![LeetCode Submission Stats](https://raw.githubusercontent.com/CSwebD/leetcode-tracker/main/assets/leetcode-submissions.svg)
+
