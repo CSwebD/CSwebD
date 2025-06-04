@@ -39,7 +39,7 @@ Motivated and adaptable Software Developer with hands-on experience in designing
 
 ## 📈 GitHub Stats & Activity
 
-![Cristian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CSwebD&show_icons=true&theme=dark&include_all_commits=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CSwebD&show_icons=true&theme=dark&include_all_commits=true&count_private=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CSwebD&layout=compact&theme=dark)
 
