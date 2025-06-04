@@ -47,6 +47,12 @@ Motivated and adaptable Software Developer with hands-on experience in designing
 
 ---
 
+## 🧠 LeetCode Progress (Live Stats)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/cris_tian_7?ext=heatmap&theme=dark&font=consolas&animation=true&border=true)
+
+---
+
 ## 🗂️ Projects by Language
 
 Here's a breakdown of my projects by programming language based on pinned repositories and notable work:
@@ -59,21 +65,9 @@ Here's a breakdown of my projects by programming language based on pinned reposi
 
 ---
 
-## 📌 Pinned Projects
+*Last updated: June 2025*
 
-- 🔗 [CRIS-AI Portfolio](https://cris-ai.com) — Personal portfolio website
-- 🔗 [Skill Maps](https://skill-maps.com) — Interactive learning roadmaps
-- 🔗 [RNN-AAL-Prediction](https://github.com/CSwebD/RNN-AAL-Prediction) — Stock price forecasting model
 
----
-
-*Last updated: May 2025*
-
----
-
-## 🧠 LeetCode Progress (Live Stats)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/cris_tian_7?ext=heatmap&theme=dark&font=consolas&animation=true&border=true)
 
 
 
