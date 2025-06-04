@@ -9,7 +9,7 @@
 
 ## 🔎 About Me
 
-Motivated and adaptable Full-Stack Developer with hands-on experience in designing and implementing scalable web applications, including **Skill Maps**. Proficient in front-end (HTML, CSS, JavaScript) and back-end (Java, Python) development, server management, and CI/CD pipeline automation. Currently serving as an IT Support Desk Analyst at the University of Greenwich, delivering proactive hardware/software maintenance and support.
+Motivated and adaptable sOFTWARE Developer with hands-on experience in designing and implementing scalable web applications, including **Skill Maps**. Proficient in front-end (HTML, CSS, JavaScript) and back-end (Java, Python) development, server management, and CI/CD pipeline automation. Currently serving as an IT Support Desk Analyst at the University of Greenwich, delivering proactive hardware/software maintenance and support.
 
 ---
 
