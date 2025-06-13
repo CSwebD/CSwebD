@@ -56,10 +56,10 @@ Motivated and adaptable Software Developer with hands-on experience in designing
 Here's a breakdown of my projects by programming language based on pinned repositories and notable work:
 
 - **HTML, CCS, JavaScript:** 6 projects ([CRIS-AI Portfolio](https://cris-ai.com/), [Skill Maps](https://skill-maps.com/), [CS Portfolio](https://cs-portfolio1.netlify.app/), [Bon Appetit](https://b0n-appetit.netlify.app/), [Cristi's Cusine](https://cristi-s-cuisine.netlify.app/), [Three Dots](https://3-dots.netlify.app/))
-- **Python:** 2 projects ([RNN-AAL-Prediction](https://github.com/CSwebD/machine-learning-techniques-for-predicting-American-Airlines-Stock-using-RNN-model), [web-scraping-an-article](https://github.com/CSwebD/web-scraping-an-article))
-- **Java:** 3 projects ([BankingApplicationGUI](https://github.com/CSwebD/BankingApplicationGUI), [ToDoList_Java](https://github.com/CSwebD/ToDoList_Java), [Student_Management_System](https://github.com/CSwebD/Student_Management_System))
+- **Python:** 3 projects ([RNN-AAL-Prediction](https://github.com/CSwebD/machine-learning-techniques-for-predicting-American-Airlines-Stock-using-RNN-model), [web-scraping-an-article](https://github.com/CSwebD/web-scraping-an-article), [ToDo_List_Py](https://github.com/CSwebD/ToDo_List_Py), [Student_Management_System](https://github.com/CSwebD/Student_Management_System))
+- **Java:** 3 projects ([BankingApplicationGUI](https://github.com/CSwebD/BankingApplicationGUI), [ToDo_List_Java](https://github.com/CSwebD/ToDo_List_Java), [Student_Management_System](https://github.com/CSwebD/Student_Management_System))
 - **R:** 1 project ([Weight-Change-Analysis](https://github.com/CSwebD/Weight-Change-Analysis))
-- **C++:** 1 project ([ToDoList_CPP](https://github.com/CSwebD/ToDoList_CPP))
+- **C++:** 1 project ([ToDo_List_CPP](https://github.com/CSwebD/ToDo_List_CPP))
 
 ---
 
