@@ -5,37 +5,6 @@
 📍 London, United Kingdom  
 📫 sclifos.cristian@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristian-sclifos-01525b162) | [Portfolio](https://cris-ai.com)
 
----
-
-## 🔎 About Me
-
-Motivated and adaptable Software Developer with hands-on experience in designing and implementing scalable web applications, including **Skill Maps**. Proficient in front-end (HTML, CSS, JavaScript) and back-end (Java, Python) development, server management, and CI/CD pipeline automation. Currently serving as an IT Support Desk Analyst at the University of Greenwich, delivering proactive hardware/software maintenance and support.
-
----
-
-## 🛠️ Skills & Technologies
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify)
-![TeamCity](https://img.shields.io/badge/-TeamCity-000000?logo=teamcity)
-
-
-- **Frameworks & Tools:** TensorFlow, Beautiful Soup, Azure DevOps, AWS, Git, Visual Studio Code, Particles.js
-
----
-
-## 🎓 Education
-
-- **BEng (Hons) Software Engineering**, University of Greenwich (2025)
-- **Level 3 Diploma for ICT Systems and Principles for IT Professionals**, 5E Ltd (2022)
-
----
 
 ## 📈 GitHub Stats & Activity
 
