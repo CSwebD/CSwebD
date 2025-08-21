@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Cristian Sclifos
 
-**Software Developer & IT Support Desk Analyst**
+**Software Engineer**
 
 📍 London, United Kingdom  
 📫 sclifos.cristian@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristian-sclifos-01525b162) | [Portfolio](https://cris-ai.com)
