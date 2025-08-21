@@ -5,21 +5,6 @@
 📍 London, United Kingdom  
 📫 sclifos.cristian@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristian-sclifos-01525b162) | [Portfolio](https://cris-ai.com)
 
-
-## 📈 GitHub Stats & Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CSwebD&show_icons=true&theme=dark&include_all_commits=true&count_private=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CSwebD&layout=compact&theme=dark)
-
----
-
-## 🧠 LeetCode Progress (Live Stats)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/cris_tian_7?ext=heatmap&theme=dark&font=consolas&animation=true&border=true)
-
----
-
 ## 🗂️ Projects by Language
 
 Here's a breakdown of my projects by programming language based on pinned repositories and notable work:
