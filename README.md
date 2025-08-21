@@ -17,7 +17,7 @@ Here's a breakdown of my projects by programming language based on pinned reposi
 
 ---
 
-*Last updated: June 2025*
+*Last updated: August 2025*
 
 
 
