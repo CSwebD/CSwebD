@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Cristian Sclifos
+# Hi, I’m Cristian Sclifos
 
 ## Software Engineer
 
-📍 London, United Kingdom  
-📫 sclifos.cristian@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristian-sclifos-01525b162) | [Portfolio](https://cris-ai.com)
+London, United Kingdom  
+sclifos.cristian@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristian-sclifos-01525b162) | [Portfolio](https://cris-ai.com)
 
-## 🗂️ Projects by Language
+## Projects by Language
 
 Here's a breakdown of my projects by programming language based on pinned repositories and notable work:
 
